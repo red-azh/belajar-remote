@@ -2,5 +2,6 @@
 2. mangga
 3. jeruk 
 4. pisang
-
+5. manggis 
+6. durian
 
