@@ -1,4 +1,6 @@
 1. apel
-2. apel
-3. durian 
+2. mangga
+3. jeruk
 4. pisang
+5. rambutan
+6. kiwi
